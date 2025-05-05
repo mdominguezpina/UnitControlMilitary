@@ -83,6 +83,7 @@ docs/Manual.pdf: Manual de usuario con capturas y detalles funcionales.
 Distribuido bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 # 📁 Estructura del proyecto
+``` plaintext
 UnitControlMilitary/
 ├── docs/                      # Documentación del proyecto
 │   ├── Manual.pdf             # Manual de usuario con capturas y explicación detallada
@@ -129,6 +130,6 @@ UnitControlMilitary/
 ├── .gitignore                 # Archivos ignorados por Git
 ├── LICENSE                    # Licencia MIT
 └── README.md                  # Este archivo
-
+```
 
 
