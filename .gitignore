@@ -3,6 +3,8 @@
 /dist/
 /out/
 
+
+
 # Ignorar archivos específicos de configuración privada de NetBeans
 /nbproject/private/
 /nbbuild/
@@ -10,7 +12,20 @@
 /nbactions.xml
 /nb-configuration.xml
 
-# Ignorar archivos compilados de Java
+#Ignorar archivos (actualizacion)
+nbproject/
+build.xml
+manifest.mf
+*.class
+*.jar
+dist/
+out/
+
+# Ignorar archivos compilados d
+#Ignorar archivos (actualizacion)
+nbproject/private/
+nbproject/build-impl.xml
+manifest.mfe Java
 *.class
 
 # Ignorar archivos del sistema
