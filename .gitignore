@@ -1,0 +1,28 @@
+# Ignorar carpetas de salida de compilación (builds)
+/build/
+/dist/
+/out/
+
+# Ignorar archivos específicos de configuración privada de NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/nbactions.xml
+/nb-configuration.xml
+
+# Ignorar archivos compilados de Java
+*.class
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos temporales o de respaldo
+*~
+*.swp
+
+# IMPORTANTE: No ignorar la carpeta de documentación
+# La carpeta docs se mantiene para incluir manual.pdf y memoria.pdf
